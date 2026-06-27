@@ -1,0 +1,35 @@
+{
+  "home": {
+    "title_part1": "Alexander's",
+    "title_part2": "Chess.",
+    "description": "Prove your tactical skill. Humiliate a friend on the same screen or face off against our Artificial Intelligence engine.",
+    "local_title": "Local PVP",
+    "local_desc": "Play against a friend",
+    "ai_title": "vs Artificial Intelligence",
+    "ai_desc": "Select your color to start",
+    "btn_white": "♔ White",
+    "btn_black": "♚ Black"
+  },
+  "game": {
+    "btn_back": "Back",
+    "btn_reset": "Reset",
+    "confirm_leave": "Game in progress. Are you sure you want to leave?",
+    "confirm_reset": "Game in progress. Are you sure you want to reset?",
+    "confirm_difficulty": "Are you sure you want to change AI difficulty to {{level}}?",
+    "title_ai": "Vs AI Mode",
+    "title_local": "Local PVP",
+    "ai_level": "AI Level:",
+    "processing": "Thinking...",
+    "white": "White",
+    "black": "Black",
+    "ai": "AI",
+    "you": "You",
+    "turn_of": "Turn of: {{color}}",
+    "checkmate_win": "Checkmate! {{winner}} wins 🏆",
+    "draw": "Draw! 🤝",
+    "diff_easy": "Easy (500 ELO)",
+    "diff_medium": "Medium (1300 ELO)",
+    "diff_hard": "Hard (2100 ELO)",
+    "diff_max": "Unbeatable (Max)"
+  }
+}

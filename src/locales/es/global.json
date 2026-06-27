@@ -1,0 +1,35 @@
+{
+  "home": {
+    "title_part1": "Alexander's",
+    "title_part2": "Chess.",
+    "description": "Demuestra tu nivel táctico. Humilla a un amigo en la misma pantalla o enfréntate a nuestro motor de Inteligencia Artificial.",
+    "local_title": "PVP Local",
+    "local_desc": "Juega contra un amigo",
+    "ai_title": "vs Inteligencia Artificial",
+    "ai_desc": "Selecciona tu color para iniciar",
+    "btn_white": "♔ Blancas",
+    "btn_black": "♚ Negras"
+  },
+  "game": {
+    "btn_back": "Volver",
+    "btn_reset": "Reiniciar",
+    "confirm_leave": "Hay una partida en curso. ¿Seguro que quiere abandonarla?",
+    "confirm_reset": "Hay una partida en curso. ¿Seguro que quiere reiniciar?",
+    "confirm_difficulty": "¿Seguro que desea cambiar la dificultad de la IA a {{level}}?",
+    "title_ai": "Modo vs IA",
+    "title_local": "PVP Local",
+    "ai_level": "Nivel IA:",
+    "processing": "Procesando...",
+    "white": "Blancas",
+    "black": "Negras",
+    "ai": "IA",
+    "you": "Tú",
+    "turn_of": "Turno de: {{color}}",
+    "checkmate_win": "¡Jaque Mate! Ganan las {{winner}} 🏆",
+    "draw": "¡Empate! 🤝",
+    "diff_easy": "Fácil (500 ELO)",
+    "diff_medium": "Medio (1300 ELO)",
+    "diff_hard": "Alto (2100 ELO)",
+    "diff_max": "Imbatible (Max)"
+  }
+}
